@@ -4,6 +4,10 @@
 
 ![image-20230819130751450](README.assets/image-20230819130751450.png)
 
+[**DiffusionTrack：Diffusion Model For Multi-Object Tracking**](https://arxiv.org/abs/2308.09905)
+Run Luo, Zikai Song, Lintao Ma, Jinlin Wei
+*[arXiv 2308.09905](https://arxiv.org/abs/2308.09905)*
+
 ## Tracking performance
 
 ### Results on MOT17 challenge test set with 15.89 FPS
@@ -204,7 +208,12 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](https://github.com
 If you use DiffusionTrack in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
 
 ```
-
+@article{luo2023diffusiontrack,
+  title={DiffusionTrack: Diffusion Model For Multi-Object Tracking},
+  author={Luo, Run and Song, Zikai and Ma, Lintao and Wei, Jinlin and Yang, Wei and Yang, Min},
+  journal={arXiv preprint arXiv:2308.09905},
+  year={2023}
+}
 ```
 
 ## Acknowledgement
