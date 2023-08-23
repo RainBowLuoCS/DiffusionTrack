@@ -147,5 +147,4 @@ src/*
 test.py
 id_rsa_cs
 module_test.py
-*.gif
 vis_fold
