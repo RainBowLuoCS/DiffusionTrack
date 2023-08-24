@@ -76,6 +76,13 @@ Step3. Others
 pip3 install cython_bbox
 ```
 
+Step4. Install detectron2
+
+```
+git clone https://github.com/facebookresearch/detectron2.git
+python -m pip install -e detectron2
+```
+
 ## Data preparation
 
 Download [MOT17](https://motchallenge.net/), [MOT20](https://motchallenge.net/), [CrowdHuman](https://www.crowdhuman.org/), [Cityperson](https://github.com/Zhongdao/Towards-Realtime-MOT/blob/master/DATASET_ZOO.md), [ETHZ](https://github.com/Zhongdao/Towards-Realtime-MOT/blob/master/DATASET_ZOO.md) ,[Dancetrack](https://github.com/DanceTrack/DanceTrack) put them under <DiffusionTrack_HOME>/datasets in the following structure:
