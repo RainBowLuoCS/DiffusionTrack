@@ -5,7 +5,9 @@
 ![image-20230819130751450](README.assets/image-20230819130751450.png)
 
 [**DiffusionTrack：Diffusion Model For Multi-Object Tracking**](https://arxiv.org/abs/2308.09905)
+
 Run Luo, Zikai Song, Lintao Ma, Jinlin Wei
+
 *[arXiv 2308.09905](https://arxiv.org/abs/2308.09905)*
 
 ## Tracking performance
