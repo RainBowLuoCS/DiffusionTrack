@@ -136,7 +136,7 @@ python3 tools/mix_data_test_mot20.py
 
 ## Model zoo
 
-You can download our model weight from [our model zoo](https://drive.google.com/drive/folders/1xfBo04Ncm504xFUMtC4_0g0Bf61yPsXh?usp=sharing) 
+You can download our model weight from [our model zoo](https://drive.google.com/drive/folders/1xfBo04Ncm504xFUMtC4_0g0Bf61yPsXh?usp=sharing). We provide a 32-bit precision model, you can load it and then use half-precision fine-tuning to get a 16-bit precision model weight, so that you will get the above inference speed.
 
 ## Training
 
