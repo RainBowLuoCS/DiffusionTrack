@@ -136,7 +136,7 @@ python3 tools/mix_data_test_mot20.py
 
 ## Model zoo
 
-We will release our model weight soon
+You can download our model weight from [our model zoo]([https://drive.google.com/drive/folders/1xfBo04Ncm504xFUMtC4_0g0Bf61yPsXh?usp=drive_link](https://drive.google.com/drive/folders/1xfBo04Ncm504xFUMtC4_0g0Bf61yPsXh?usp=sharing)) 
 
 ## Training
 
@@ -206,6 +206,7 @@ python3 tools/track.py -f exps/example/mot/yolox_x_diffusion_track_dancetrack.py
 
 ## News
 
+- (2023.12) Our paper is accepted by AAAI2024!
 - (2023.08) Code is released!
 
 ## License
