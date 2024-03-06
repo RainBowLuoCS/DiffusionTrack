@@ -205,7 +205,7 @@ python3 tools/track.py -f exps/example/mot/yolox_x_diffusion_track_dancetrack.py
 ```
 
 ## News
-
+- (2024.02) [DiffMOT](https://github.com/Kroery/DiffMOT.git) is accepted by CVPR2024 based on our visionary insights, congratulations!
 - (2023.12) Our paper is accepted by AAAI2024!
 - (2023.08) Code is released!
 
