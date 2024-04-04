@@ -130,7 +130,6 @@ Before mixing different datasets, you need to follow the operations in [mix_xxx.
 cd <DiffusionTrack_HOME>
 python3 tools/mix_data_ablation.py
 python3 tools/mix_data_test_mot17.py
-python3 tools/mix_data_test_dancetrack.py
 python3 tools/mix_data_test_mot20.py
 ```
 
