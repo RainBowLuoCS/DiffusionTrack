@@ -207,6 +207,8 @@ python3 tools/track.py -f exps/example/mot/yolox_x_diffusion_track_dancetrack.py
 - (2024.02) [DiffMOT](https://github.com/Kroery/DiffMOT.git) is accepted by CVPR2024, demonstrating the potential of the diffusion-based tracker and once again validating our visionary insights, congratulations!
 - (2023.12) Our paper is accepted by AAAI2024!
 - (2023.08) Code is released!
+- (2023.06) Despite being rejected by NIPS2023, we firmly believe the diffusion model is a novel solution for multi-object tracking problems.
+- (2022.11) Write the first line of the code for this great idea!
 
 ## License
 
